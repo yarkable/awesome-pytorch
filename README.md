@@ -1,2 +1,1 @@
-# awesome-pytorch
-some codes written with pytorch
+# 就是一些用 pytorch 框架写的代码，需要的自取啦
